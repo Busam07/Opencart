@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-12-21T11:56:26 GMT" name="Suite" finished-at="2024-12-21T11:56:43 GMT" duration-ms="17371">
+    <groups>
+      <group name="Master">
+        <method signature="TC001_acc_reg_test.verify_acc_reg()[pri:0, instance:testcase.TC001_acc_reg_test@2362f559]" name="verify_acc_reg" class="testcase.TC001_acc_reg_test"/>
+        <method signature="TC002_login_test.verify_login()[pri:0, instance:testcase.TC002_login_test@247bddad]" name="verify_login" class="testcase.TC002_login_test"/>
+      </group> <!-- Master -->
+      <group name="Sanity">
+        <method signature="TC001_acc_reg_test.verify_acc_reg()[pri:0, instance:testcase.TC001_acc_reg_test@2362f559]" name="verify_acc_reg" class="testcase.TC001_acc_reg_test"/>
+      </group> <!-- Sanity -->
+      <group name="Regression">
+        <method signature="TC002_login_test.verify_login()[pri:0, instance:testcase.TC002_login_test@247bddad]" name="verify_login" class="testcase.TC002_login_test"/>
+      </group> <!-- Regression -->
+    </groups>
+    <test started-at="2024-12-21T11:56:26 GMT" name="Test" finished-at="2024-12-21T11:56:43 GMT" duration-ms="17371">
+      <class name="testcase.TC001_acc_reg_test">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testcase.TC001_acc_reg_test@2362f559]" started-at="2024-12-21T11:56:26 GMT" name="setup" finished-at="2024-12-21T11:56:31 GMT" duration-ms="5475" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Windows]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verify_acc_reg()[pri:0, instance:testcase.TC001_acc_reg_test@2362f559]" started-at="2024-12-21T11:56:31 GMT" name="verify_acc_reg" finished-at="2024-12-21T11:56:37 GMT" duration-ms="5172" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_acc_reg -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testcase.TC001_acc_reg_test@2362f559]" started-at="2024-12-21T11:56:37 GMT" name="tearDown" finished-at="2024-12-21T11:56:37 GMT" duration-ms="242" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testcase.TC001_acc_reg_test -->
+      <class name="testcase.TC002_login_test">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testcase.TC002_login_test@247bddad]" started-at="2024-12-21T11:56:37 GMT" name="setup" finished-at="2024-12-21T11:56:40 GMT" duration-ms="3600" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Windows]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verify_login()[pri:0, instance:testcase.TC002_login_test@247bddad]" started-at="2024-12-21T11:56:40 GMT" name="verify_login" finished-at="2024-12-21T11:56:43 GMT" duration-ms="2186" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_login -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testcase.TC002_login_test@247bddad]" started-at="2024-12-21T11:56:43 GMT" name="tearDown" finished-at="2024-12-21T11:56:43 GMT" duration-ms="257" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testcase.TC002_login_test -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

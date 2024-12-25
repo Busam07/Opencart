@@ -1,0 +1,73 @@
+10:13:23.297 [main] INFO  testcase.TC001_acc_reg_test - ***start**
+10:13:24.093 [main] INFO  testcase.TC001_acc_reg_test - **registration page**
+10:13:27.697 [main] INFO  testcase.TC001_acc_reg_test - **finished**
+10:19:17.393 [main] INFO  testcase.TC001_acc_reg_test - ***start**
+10:19:18.204 [main] INFO  testcase.TC001_acc_reg_test - **registration page**
+10:19:21.774 [main] INFO  testcase.TC001_acc_reg_test - **finished**
+10:21:53.957 [main] INFO  testcase.TC001_acc_reg_test - ***start**
+10:21:54.767 [main] INFO  testcase.TC001_acc_reg_test - **registration page**
+10:21:58.366 [main] INFO  testcase.TC001_acc_reg_test - **finished**
+10:23:44.308 [main] INFO  testcase.TC001_acc_reg_test - ***start**
+10:23:45.358 [main] INFO  testcase.TC001_acc_reg_test - **registration page**
+10:23:48.965 [main] INFO  testcase.TC001_acc_reg_test - **finished**
+11:24:43.735 [main] INFO  testcase.TC001_acc_reg_test - ***start**
+11:24:44.676 [main] INFO  testcase.TC001_acc_reg_test - **registration page**
+11:24:48.448 [main] INFO  testcase.TC001_acc_reg_test - **finished**
+11:27:09.033 2024-11-27 [main] INFO  testcase.TC001_acc_reg_test - ***start**
+11:27:09.978 2024-11-27 [main] INFO  testcase.TC001_acc_reg_test - **registration page**
+11:27:13.759 2024-11-27 [main] INFO  testcase.TC001_acc_reg_test - **finished**
+12:23:59.577 2024-12-01 [main] INFO  testcase.TC002_login_test - ***login page****
+12:24:01.249 2024-12-01 [main] INFO  testcase.TC002_login_test - ***finished login  test****
+12:34:37.446 2024-12-01 [main] INFO  testcase.TC002_login_test - ***login page****
+12:34:39.161 2024-12-01 [main] INFO  testcase.TC002_login_test - ***finished login  test****
+11:29:16.313 2024-12-02 [main] INFO  testcase.TC002_login_test - ***login page****
+11:29:18.259 2024-12-02 [main] INFO  testcase.TC002_login_test - ***finished login  test****
+11:30:20.519 2024-12-02 [main] INFO  testcase.TC002_login_test - ***login page****
+11:30:22.300 2024-12-02 [main] INFO  testcase.TC002_login_test - ***finished login  test****
+11:31:03.512 2024-12-02 [main] INFO  testcase.TC002_login_test - ***login page****
+11:31:05.299 2024-12-02 [main] INFO  testcase.TC002_login_test - ***finished login  test****
+11:33:07.965 2024-12-02 [main] INFO  testcase.TC001_acc_reg_test - ***start**
+11:33:08.958 2024-12-02 [main] INFO  testcase.TC001_acc_reg_test - **registration page**
+11:33:12.759 2024-12-02 [main] INFO  testcase.TC001_acc_reg_test - **finished**
+11:17:03.727 2024-12-21 [main] INFO  testcase.TC001_acc_reg_test - ***start**
+11:17:04.663 2024-12-21 [main] INFO  testcase.TC001_acc_reg_test - **registration page**
+11:17:08.681 2024-12-21 [main] INFO  testcase.TC001_acc_reg_test - **finished**
+11:40:32.977 2024-12-21 [main] INFO  testcase.TC001_acc_reg_test - ***start**
+11:40:33.897 2024-12-21 [main] INFO  testcase.TC001_acc_reg_test - **registration page**
+11:40:37.861 2024-12-21 [main] INFO  testcase.TC001_acc_reg_test - **finished**
+11:40:41.779 2024-12-21 [main] INFO  testcase.TC002_login_test - ***login page****
+11:40:43.918 2024-12-21 [main] INFO  testcase.TC002_login_test - ***finished login  test****
+11:49:26.641 2024-12-21 [main] INFO  testcase.TC001_acc_reg_test - ***start**
+11:49:27.598 2024-12-21 [main] INFO  testcase.TC001_acc_reg_test - **registration page**
+11:49:31.476 2024-12-21 [main] INFO  testcase.TC001_acc_reg_test - **finished**
+11:49:35.188 2024-12-21 [main] INFO  testcase.TC002_login_test - ***login page****
+11:49:37.204 2024-12-21 [main] INFO  testcase.TC002_login_test - ***finished login  test****
+11:51:43.651 2024-12-21 [main] INFO  testcase.TC001_acc_reg_test - ***start**
+11:51:44.805 2024-12-21 [main] INFO  testcase.TC001_acc_reg_test - **registration page**
+11:51:48.881 2024-12-21 [main] INFO  testcase.TC001_acc_reg_test - **finished**
+11:51:52.752 2024-12-21 [main] INFO  testcase.TC002_login_test - ***login page****
+11:56:31.975 2024-12-21 [main] INFO  testcase.TC001_acc_reg_test - ***start**
+11:56:33.087 2024-12-21 [main] INFO  testcase.TC001_acc_reg_test - **registration page**
+11:56:37.129 2024-12-21 [main] INFO  testcase.TC001_acc_reg_test - **finished**
+11:56:40.998 2024-12-21 [main] INFO  testcase.TC002_login_test - ***login page****
+11:56:43.182 2024-12-21 [main] INFO  testcase.TC002_login_test - ***finished login  test****
+11:27:54.115 2024-12-24 [main] INFO  testcase.TC001_acc_reg_test - ***start**
+11:27:54.984 2024-12-24 [main] INFO  testcase.TC001_acc_reg_test - **registration page**
+11:27:58.638 2024-12-24 [main] INFO  testcase.TC001_acc_reg_test - **finished**
+11:28:02.544 2024-12-24 [main] INFO  testcase.TC002_login_test - ***login page****
+11:28:04.246 2024-12-24 [main] INFO  testcase.TC002_login_test - ***finished login  test****
+11:44:21.860 2024-12-24 [main] INFO  testcase.TC001_acc_reg_test - ***start**
+11:44:22.729 2024-12-24 [main] INFO  testcase.TC001_acc_reg_test - **registration page**
+11:44:26.281 2024-12-24 [main] INFO  testcase.TC001_acc_reg_test - **finished**
+11:44:29.596 2024-12-24 [main] INFO  testcase.TC002_login_test - ***login page****
+11:44:31.282 2024-12-24 [main] INFO  testcase.TC002_login_test - ***finished login  test****
+11:53:49.930 2024-12-24 [main] INFO  testcase.TC001_acc_reg_test - ***start**
+11:53:50.872 2024-12-24 [main] INFO  testcase.TC001_acc_reg_test - **registration page**
+11:53:54.492 2024-12-24 [main] INFO  testcase.TC001_acc_reg_test - **finished**
+11:53:57.932 2024-12-24 [main] INFO  testcase.TC002_login_test - ***login page****
+11:53:59.621 2024-12-24 [main] INFO  testcase.TC002_login_test - ***finished login  test****
+11:19:16.451 2024-12-25 [main] INFO  testcase.TC001_acc_reg_test - ***start**
+11:19:17.720 2024-12-25 [main] INFO  testcase.TC001_acc_reg_test - **registration page**
+11:19:21.599 2024-12-25 [main] INFO  testcase.TC001_acc_reg_test - **finished**
+11:19:26.753 2024-12-25 [main] INFO  testcase.TC002_login_test - ***login page****
+11:19:28.798 2024-12-25 [main] INFO  testcase.TC002_login_test - ***finished login  test****
