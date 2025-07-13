@@ -39,10 +39,26 @@ Opencart/
 
 Before running the tests, ensure you have the following installed:
 
-- **Java (JDK 8 or later)**
+- **Java 22** 
 - **Apache Maven**
-- **Eclipse/IntelliJ IDEA** (or any Java-supported IDE)
-- **Google Chrome/Firefox** (for browser-based testing)
+- **Eclipse** 
+- **Google Chrome/Firefox** 
 - **Selenium WebDriver**
-- **TestNG Plugin** (for Eclipse or IntelliJ)
+- **TestNG Plugin** (for Eclipse )
 - **Extent Reports (configured in the framework)**
+
+## 🔍 Features & Highlights
+- **Hybrid Framework Setup**  
+  Combines Page Object Model (POM) with data-driven testing for clean, reusable, and maintainable test scripts.
+
+- **Comprehensive Test Scenarios**  
+  Automates user flows like product search, login, cart addition, checkout, and logout, covering various functional aspects.
+
+- **Excel-Based Data Input**  
+  Uses Apache POI to fetch test data—such as usernames, product IDs, and quantities—from Excel sheets for flexibility and scalability.
+
+- **Detailed Test Reporting**  
+  Generates rich HTML reports using ExtentReports, complete with step-level logs and failure screenshots.
+
+- **Cross-Browser & Conditional Waits**  
+  Implements dynamic waits and basic cross-browser capabilities for test stability across different environments.
